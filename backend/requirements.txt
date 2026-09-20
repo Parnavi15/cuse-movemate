@@ -1,0 +1,5 @@
+Django==5.0.6
+djangorestframework==3.15.1
+django-cors-headers==4.3.1
+# Optional. Without a key, natural-language matching falls back to the rule parser.
+anthropic==0.34.0
